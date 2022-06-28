@@ -1,2 +1,2 @@
 # project1
-code for fraud detection
+code for credit card fraud detection
